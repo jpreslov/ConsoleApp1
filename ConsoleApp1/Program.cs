@@ -25,7 +25,7 @@ namespace HelloWorld
             } 
             else
             {
-                Console.WriteLine("you fucked up");
+                Console.WriteLine("you messed up");
             }
         }
     }

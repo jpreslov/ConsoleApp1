@@ -13,6 +13,6 @@
             long countByLong = long.Parse(countBy);
             Console.WriteLine("Count to " + countToLong + " in increments of " + countByLong);
         }
-        else { Console.WriteLine("fuck you don't put spaces in that shit"); }
+        else { Console.WriteLine("Frick you don't put spaces in that crap"); }
     }
 }
